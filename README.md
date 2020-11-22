@@ -15,3 +15,6 @@
 * node transfer_advanced.js
 ### 5. Write and deploy your first NEAR smart contract
 * npx asb
+
+# References:
+* https://learn.figment.io/network-documentation/near/near-pathway
